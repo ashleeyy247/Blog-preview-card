@@ -22,7 +22,6 @@ body {
   min-height: 100vh;
   font-family: "Figtree", sans-serif;
   line-height: 150%;
-  color: #333;
   background-color: var(--yellow);
   padding: 20px;
 }
