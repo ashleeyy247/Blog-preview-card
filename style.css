@@ -65,6 +65,7 @@ body {
   background-color: var(--white);
   box-shadow: 10px 10px black;
   margin: auto;
+  border: 1px solid black;
 }
 
 @media (max-width: 384px) {
